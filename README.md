@@ -10,5 +10,8 @@ This e-commerce project is built on the microservice architecture and follows th
 
 
 
+
+
+
   
-..in development
+..in the development phase
